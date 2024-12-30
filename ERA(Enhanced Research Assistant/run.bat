@@ -1,0 +1,1 @@
+python -m streamlit run "C:\Users\subha\OneDrive\Desktop\Multipage application\THE APPLICATION\application_final\mutltiapps\homepage.py"
